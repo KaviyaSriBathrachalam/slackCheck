@@ -1,0 +1,4 @@
+# slackCheck
+
+
+Checking slack
