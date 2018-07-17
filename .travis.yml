@@ -3,7 +3,7 @@ addons:
     packages:
       - lynx
 language: java
-sudo: false
+sudo: true
 # script: mvn clean -Dtest=StudentControllerTest3 test && mvn surefire-report:report
 notifications:
 
